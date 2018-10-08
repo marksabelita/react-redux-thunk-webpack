@@ -1,5 +1,5 @@
 
-![alt text](https://raw.githubusercontent.com/marksabelita/webpack-react-redux-saga/master/src/images/logo.png)
+![alt text](https://github.com/marksabelita/react-redux-thunk-webpack/blob/master/src/images/logo.png)
 
 Beginner friendly React-Redux-Saga
 
