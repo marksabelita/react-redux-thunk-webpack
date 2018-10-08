@@ -8,7 +8,7 @@ Beginner friendly React-Redux-Saga
 This boilerplate features all the latest tools and practices in the industry.
 
 - _React.js_ - **React**, React router
-- _Redux.js_ - **React Redux** State management, Redux router, Redux saga(state management)
+- _Redux.js_ - **React Redux** State management, Redux router, Redux thunk(state management)
 - _Babel_ - ES6, and React/Recommended config
 - _Webpack_ - **Webpack 4**, Hot Reloading, Code Splitting, Optimized Prod Build and more
 - _Test_ - **Mocha, Chai** 
@@ -18,8 +18,8 @@ This boilerplate features all the latest tools and practices in the industry.
 
 ## Quick start
 
-- Clone this repo using git clone https://github.com/marksabelita/webpack-react-redux-saga.git
-- Move to the appropriate directory: cd webpack-react-redux-saga.
+- Clone this repo using git clone https://github.com/marksabelita/react-redux-thunk-webpack.git
+- Move to the appropriate directory: cd react-redux-thunk-webpack.
 - Install dependencies
 ```
 npm install
